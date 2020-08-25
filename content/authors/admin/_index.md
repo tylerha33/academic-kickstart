@@ -20,7 +20,7 @@ social:
     link: holland-ashford.1@osu.edu
   - icon: ads
     icon_pack: ai
-    link: https://ui.adsabs.harvard.edu/search/q=author%3A%22%5Eholland-ashford%22&sort=date%20desc%2C%20bibcode%20desc&p_=0
+    link: https://ui.adsabs.harvard.edu/
 education:
   courses:
     - course: PhD in Astronomy, in progress
