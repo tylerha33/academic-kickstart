@@ -7,8 +7,7 @@ authors:
   - admin
 title: Tyler Holland-Ashford
 role: Graduate Student
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: 
 interests:
   - Supernova Remnants
   - X-ray Imaging
@@ -17,10 +16,10 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: holland-ashford.1@osu.edu
+    link: mailto:holland-ashford.1@osu.edu
   - icon: ads
     icon_pack: ai
-    link: https://ui.adsabs.harvard.edu/
+    link: https://ui.adsabs.harvard.edu/search/q=author%3A%22holland-ashford%22&sort=date%20desc%2C%20bibcode%20desc&p_=0
 education:
   courses:
     - course: PhD in Astronomy, in progress
