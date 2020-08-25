@@ -66,7 +66,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
  
- idk stuff
 +++
 
 {{% alert note %}}
