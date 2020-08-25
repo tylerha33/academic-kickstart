@@ -7,5 +7,5 @@ abstract: "Supernova explosions are inherently asymmetric and can accelerate new
 featured: true                                                                                                                                                                                 
 publication: "The Astrophysical Journal, Volume 844, Issue 1, article id. 84, 16 pp. (2017)."                                                                                                                               
 url_pdf: "https://ui.adsabs.harvard.edu/abs/2017ApJ...844...84H/abstract"                                                                                                                               
-doi: "https://iopscience.iop.org/article/10.3847/1538-4357/aa7a5c"                                                                                                                                                                         
+doi: "10.3847/1538-4357/aa7a5c"                                                                                                                                                                         
 ---    
