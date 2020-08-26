@@ -7,7 +7,7 @@ authors:
   - admin
 title: Tyler Holland-Ashford
 role: Graduate Student
-bio: 
+bio: null
 interests:
   - Supernova Remnants
   - X-ray Imaging
@@ -33,4 +33,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I am currently working with Professor Laura Lopez on X-ray observations of Supernova Remnants (SNRs). Our goal is to use these observations to learn more about the evolution of SNRs in order to more fully understand the processes that occur during supernova explosions.
+I am currently working with Professor Laura Lopez on X-ray observations of Supernova Remnants (SNRs). Our goal is to, through spatially-resolved and spectral analysis, study ejecta in SNRs to learn more about the processes that occur during supernova explosions. During my time at OSU, I have shown that NSs are kicked preferentially opposite to the bulk ejecta in a sample of Milky Way core-collapse SNRs. Furthermore, I have shown that in Cassiopeia A, the NS is kicked most opposite to the heaviest elements, and these heavier elements (e.g., Ar, Ca, Ti, and Fe) exhibit more asymmetric profiles than lighter elements (e.g., Si, S, Ar).
