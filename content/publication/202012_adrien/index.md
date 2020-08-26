@@ -24,5 +24,5 @@ featured: true
 publication: "Submitted to A&A"
 
 url_pdf: "http://www.astronomy.ohio-state.edu/~lopez.513/3DCasA.pdf"                                                                                                                               
-doi: ""                                                                                                                                                                         
+doi: "http://www.astronomy.ohio-state.edu/~lopez.513/3DCasA.pdf"                                                                                                                                                                         
 ---  
