@@ -13,6 +13,8 @@ interests:
   - X-ray Imaging
   - X-ray Spectroscopy
   - Neutron Star Kicks
+  - Supernova Explosion Mechanisms
+  - Atomic Data
 social:
   - icon: envelope
     icon_pack: fas
