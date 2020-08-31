@@ -1,5 +1,5 @@
 ---                                                                                                                                                                                            
-title: "Three-dimensional morphological asymmetries in the ejecta of Cassiopeia A using a component separation method in X-rays"                                      
+title: "Three-dimensional Morphological Asymmetries in the Ejecta of Cassiopeia A Using a Component Separation Method in X-rays"                                      
 date: 2020-07-19                                                                                                                                               
 authors: ["A. Picquenot", "F. Acero", "T. Holland-Ashford", "L. A. Lopez", "J. Bobin"]                                                                                                         
 publication_types: ["3"]                                                                                                                                                                       
