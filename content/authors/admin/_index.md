@@ -24,7 +24,7 @@ social:
     link: https://ui.adsabs.harvard.edu/search/q=author%3A%22holland-ashford%22&sort=date%20desc%2C%20bibcode%20desc&p_=0
 education:
   courses:
-    - course: PhD in Astronomy, in progress
+    - course: PhD in Astronomy, expected
       institution: The Ohio State University
       year: 2021
     - course: M.S. in Astronomy
