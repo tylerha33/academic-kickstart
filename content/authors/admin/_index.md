@@ -14,7 +14,7 @@ interests:
   - X-ray Spectroscopy
   - Neutron Star Kicks
   - Supernova Explosion Mechanisms
-  - Atomic Data
+  - Atomic Data & Modeling
 social:
   - icon: envelope
     icon_pack: fas
@@ -27,6 +27,9 @@ education:
     - course: PhD in Astronomy, in progress
       institution: The Ohio State University
       year: 2021
+    - course: M.S. in Astronomy
+      institution: The Ohio State University
+      year: 2013
     - course: B.S. in Physics
       institution: Harvey Mudd College
       year: 2015
