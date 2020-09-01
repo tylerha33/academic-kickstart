@@ -29,7 +29,7 @@ education:
       year: 2021
     - course: M.S. in Astronomy
       institution: The Ohio State University
-      year: 2013
+      year: 2015
     - course: B.S. in Physics
       institution: Harvey Mudd College
       year: 2015
