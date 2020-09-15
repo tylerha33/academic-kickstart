@@ -38,7 +38,7 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I am currently working with Professor Laura Lopez on X-ray observations of Supernova Remnants (SNRs). Our goal is to, through spatially-resolved imaging and spectral analysis, study the distribution and properties of ejecta in SNRs and learn more about the processes that occur during supernova explosions. 
+I am currently working with Professor Laura Lopez on X-ray observations of supernova remnants (SNRs). Our goal is to, through spatially-resolved imaging and spectral analysis, study the distribution and properties of ejecta in SNRs and learn more about the processes that occur during supernova explosions. 
 
 During my time at OSU, I have analyzed X-ray data from *Chandra*, *XMM-Newton*, *ROSAT,* and *Suzaku* X-ray telescopes. In my first projects, I investigated the asymmetries of both bulk ejecta in multiple SNRs and specific elements in the SNR Cassiopeia A, performing spectral fitting using the X-ray analysis software Xspec and AtomDB. I quantified the ejecta asymmetries and compared them to each other and NS kick velocity, finding that NSs are preferentially kicked opposite to the bulk of ejecta. In another project, I studied recombining plasma in the SNR W49B, creating spectral fits to 46 regions in the remnant in order to investigate the properties and presence of overionized plasma and constrain the origin of rapid cooling.
 
