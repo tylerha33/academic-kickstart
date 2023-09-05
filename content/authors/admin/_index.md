@@ -1,12 +1,12 @@
 ---
 organizations:
-  - name: The Ohio State University
+  - name: Center for Astrophysics | Harvard & Smithsonian
     url: ""
 superuser: true
 authors:
   - admin
 title: Tyler Holland-Ashford
-role: Graduate Student
+role: Future Faculty Leaders Postdoctoral Fellow
 bio: null
 interests:
   - Supernova Remnants
