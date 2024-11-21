@@ -7,6 +7,6 @@ abstract: "The exact origins of many Type Ia supernovae – progenitor scenarios
 featured: true                                                                                                                                                                                 
 publication: "eprint arXiv:2308.15527"
 
-url_pdf: "https://ui.adsabs.harvard.edu/abs/2023arXiv230815527H"                                                                                                                       
+url_pdf: "https://ui.adsabs.harvard.edu/abs/2023ApJ...955...77H/"                                                                                                                       
 doi: ""                                                                                                                                                                         
 ---    
