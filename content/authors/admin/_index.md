@@ -1,12 +1,12 @@
 ---
 organizations:
-  - name: Center for Astrophysics | Harvard & Smithsonian
+  - name: NASA Goddard Space Flight Center
     url: ""
 superuser: true
 authors:
   - admin
 title: Tyler Holland-Ashford
-role: Future Faculty Leaders Postdoctoral Fellow
+role: NPP Fellow
 bio: null
 interests:
   - Supernova Remnants
