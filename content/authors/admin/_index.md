@@ -24,7 +24,7 @@ social:
     link: https://ui.adsabs.harvard.edu/search/q=author%3A%22holland-ashford%22&sort=date%20desc%2C%20bibcode%20desc&p_=0
 education:
   courses:
-    - course: 1st Postdoctoral Fellowship
+    - course: Postdoctoral Fellowship
       institution: Center for Astrophysics | Harvard & Smithsonian
       year: 2021-2024
     - course: PhD in Astronomy
