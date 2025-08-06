@@ -7,6 +7,6 @@ abstract: "In this paper, we present the first direct measurement of the proper 
 featured: true                                                                                                                                                                                 
 publication: "arXiv"
 
-url_pdf: "https://ui.adsabs.harvard.edu/abs/2025arXiv250701084H/abstract"                                                                                                                       
-doi: "10.48550/arXiv.2507.01084"                                                                                                                                                                         
+url_pdf: "https://ui.adsabs.harvard.edu/abs/2025ApJ...988..218H/abstract"                                                                                                                       
+doi: "10.3847/1538-4357/adeb7e"                                                                                                                                                                         
 ---    
