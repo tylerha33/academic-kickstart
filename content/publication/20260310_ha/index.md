@@ -17,7 +17,7 @@ other blueshifted at ∼1020 km s−1. Our results provide further support for t
 it expands into the bipolar winds of a nondegenerate companion and highlight the strength of high-resolution
 spectroscopic observations of SNRs."
 featured: true                                                                                                                                                                                 
-publication: "ApJ"
+publication: "The Astrophysical Journal, Volume 999, Issue 2, article id. 205, 12 pp, (2026)"
 
 url_pdf: "https://ui.adsabs.harvard.edu/abs/2026ApJ...999..205H/abstract"                                                                                                                       
 doi: "10.3847/1538-4357/ae4357"                                                                                                                                                                         
